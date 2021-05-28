@@ -1,3 +1,1 @@
-# [Issue Tracker](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker)
-
-
+Click [here](https://boilerplate-project-issuetracker-1.miltonkabir.repl.co/) to see it live!
