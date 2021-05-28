@@ -1,1 +1,1 @@
-# [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
+Click [here](https://boilerplate-project-sudoku-solver.miltonkabir.repl.co/) see live !
